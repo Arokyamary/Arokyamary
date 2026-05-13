@@ -7,7 +7,7 @@
 
 ### 📊 Proven Impact
 - ✅ **94.7%** Bayesian accuracy | **Gini 0.71** | Query time **4 hours → 8 seconds**
-- ✅ **6 industry-grade projects** built and deployed independently
+- ✅ **6+ industry-grade projects** built and deployed independently
 - ✅ **CGPA 9.375** | Data Analyst Intern @ Innoknowvex
 
 ---
