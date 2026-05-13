@@ -88,7 +88,7 @@
 | 🤖 RAG-Powered Intelligence Chatbot | LangChain · ChromaDB · Groq Llama3 · Streamlit | [Live](https://p2-rag-chatbot-a8pgr8g4w3ezpj6tkmfhcn.streamlit.app) |
 | 💰 Financial Risk Analytics Platform | WoE · Logistic Regression · Monte Carlo · SHAP | [Live](https://p4-financialrisk.streamlit.app) |
 | 📊 Product Analytics & A/B Testing | PyMC · Bayesian Stats · Plotly Dash | [Live](https://p5-product-analytics.onrender.com) |
-| ☁️ GCP BigQuery + dbt Cloud Pipeline | BigQuery · dbt Cloud · Looker Studio · Python ETL | [Live](https://datastudio.google.com/reporting/9d644d9e) |
+| ☁️ GCP BigQuery + dbt Cloud Pipeline | BigQuery · dbt Cloud · Looker Studio · Python ETL | [Live](https://datastudio.google.com/reporting/9d644d9e-7075-419c-adb0-6b0458ccebbe) |
 | ⚡ n8n Analytics Automation | n8n · PostgreSQL · Groq AI · Slack | [GitHub](https://github.com/Arokyamary/P3-n8n-Analytics) |
 | 🛒 Real-Time E-Commerce Pipeline | Kafka · Spark · PostgreSQL · Power BI · Docker | 🔧 In Progress |
 
