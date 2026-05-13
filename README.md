@@ -12,11 +12,11 @@
 
 ---
 
-- 🔭 Currently building **[Real-Time E-Commerce Analytics Pipeline](https://github.com/Arokyamary)** with Kafka + Spark
+- 🔭 Currently building **Real-Time E-Commerce Analytics Pipeline** with Kafka + Spark
 - 🌐 All my projects are at **[github.com/Arokyamary](https://github.com/Arokyamary)**
 - 💬 Ask me about **Python, SQL, Power BI, LangChain, dbt Cloud**
 - 📫 Reach me at **arokyamary004@gmail.com**
-- 📄 Know about my experience: **[View Resume](http://www.linkedin.com/in/arokya-mary-11b946275)**
+- 📄 Know about my experience: **[LinkedIn](http://www.linkedin.com/in/arokya-mary-11b946275)**
 
 ---
 
@@ -59,14 +59,21 @@
 ---
 
 ### 🏆 GitHub Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=Arokyamary&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Arokyamary&theme=tokyonight&column=7&margin-w=10&no-bg=true" />
+</p>
 
 ---
 
 ### 📈 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arokyamary&show_icons=true&theme=tokyonight" alt="Arokyamary's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arokyamary&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Arokyamary&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arokyamary&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+</p>
+
+### 🔥 GitHub Streak:
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Arokyamary&theme=tokyonight&hide_border=true" width="55%" />
 </p>
 
 ---
@@ -80,7 +87,7 @@
 | 📊 Product Analytics & A/B Testing | PyMC · Bayesian Stats · Plotly Dash | [Live](https://p5-product-analytics.onrender.com) |
 | ☁️ GCP BigQuery + dbt Cloud Pipeline | BigQuery · dbt Cloud · Looker Studio · Python ETL | [Live](https://datastudio.google.com/reporting/9d644d9e) |
 | ⚡ n8n Analytics Automation | n8n · PostgreSQL · Groq AI · Slack | [GitHub](https://github.com/Arokyamary/P3-n8n-Analytics) |
-| 🛒 Real-Time E-Commerce Pipeline | Kafka · Spark · PostgreSQL · Power BI · Docker | In Progress |
+| 🛒 Real-Time E-Commerce Pipeline | Kafka · Spark · PostgreSQL · Power BI · Docker | 🔧 In Progress |
 
 ---
 
@@ -90,4 +97,16 @@
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=Arokyamary&color=blue&style=flat-square)
+### 🏅 Certifications:
+- 📜 Data Analyst Certification — Innoknowvex (ISO Certified) | Jan–Apr 2026
+- 📜 Data Analytics Certification — IIT Delhi Alumni at Tutedude | Apr 2026
+- 📜 Data Analytics Internship — YBI Foundation (ISO Certified) | Oct 2024
+- 📜 Data Science and Analytics — HP Life Foundation | Nov 2025
+- 📜 Introduction to Generative AI Studio — SkillUp by Simplilearn | Apr 2026
+- 📜 Data Science — Udemy | Oct 2025
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Arokyamary&color=blue&style=flat-square&label=Profile+Views" />
+</p>
